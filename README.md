@@ -73,4 +73,6 @@ This bot acts as a bridge between Discord and Friend Tech. When a message is sen
 
    Your bot should now be running and listening to messages in the specified Discord channel.
 
+Disclaimer: Please interact with the software at your own risk, I am not responsible for any loss or any downside caused by it. I cannot guarantee any results from it. The software is not an offering from me. I share no responsibility for the usage and outcome of this now open-sourced software.
+
 
